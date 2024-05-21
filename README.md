@@ -1,6 +1,3 @@
-![image](https://github.com/Sonalitt/Lead-Scoring-Case-Study/assets/152708978/da77784f-0c2e-4257-8492-71355f0c82d8)# Lead-Scoring-Case-Study
-Lead Scoring Case Study
-
 **Problem Statement**
 An education company named X Education sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website and browse for courses. 
 
