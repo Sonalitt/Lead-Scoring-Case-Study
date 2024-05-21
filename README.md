@@ -16,17 +16,17 @@ There are some more problems presented by the company which your model should be
 
 **Steps Followed:**
 
-Data Reading
-Data Cleaning
-Exploratory Data Analysis (EDA)
-Creation of Dummy Variables
-Splitting Data into Train and Test Sets
-Model Building
-Prediction Making
-Model Evaluation
-ROC Curve Analysis
-Prediction on Test Set
-Precision-Recall Analysis
+1. Data Reading
+2. Data Cleaning
+3. Exploratory Data Analysis (EDA)
+4. Creation of Dummy Variables
+5. Splitting Data into Train and Test Sets
+6. Model Building
+7. Prediction Making
+8. Model Evaluation
+9. ROC Curve Analysis
+10. Prediction on Test Set
+11. Precision-Recall Analysis
 
 **Conclusion:**
 
